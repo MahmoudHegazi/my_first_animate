@@ -3,3 +3,4 @@ Using adobe animate and JavaScript to create basics of science virtual lap  (I c
 
 ## final move: 
 <img src="myanimate.PNG">	
+<img src="before_1.PNG">
